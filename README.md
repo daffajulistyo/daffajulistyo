@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **[Magang Jogja](https://magangjogja.com/)**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Fullstack Developer and UI Design.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
