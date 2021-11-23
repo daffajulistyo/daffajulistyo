@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Magang Jogja](https://magangjogja.com/)**
+- 🔭 I’m currently Interenship on **[Magang Jogja](https://magangjogja.com/)**
 
 - 🌱 I’m currently learning **Fullstack Developer and UI Design.**
 
