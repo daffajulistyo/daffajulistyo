@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently Interenship on **[Magang Jogja](https://magangjogja.com/)**
+- 🔭 I’m currently Interenship on **[NF Computer](https://www.nurulfikri.com/)**
 
 - 🌱 I’m currently learning **Fullstack Web Developer**
 
