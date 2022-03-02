@@ -8,6 +8,8 @@
 
 - 🔭 I’m currently Interenship on **[NF Computer](https://www.nurulfikri.com/)**
 
+- 🔥 I am a student at **[Padang State Polytechnic](https://www.pnp.ac.id/)**
+
 - 🌱 I’m currently learning **Fullstack Web Developer**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
